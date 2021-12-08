@@ -2,6 +2,7 @@
 
 
 # EG MSS Architecture
+(Note that the code diagrams duplicate: they need to be split.)
 
 
 ## Context
@@ -115,7 +116,7 @@
 ## Platform
 ![Platform](architecture/platform.png)
 * CloudPP: GCP eg-net-mss-pro, tes, int, dev
-* CloudLB: External HTTP(S) Load Balancer (Global, Regional, Classic?)?
+* CloudLB: External HTTP(S) Load Balancer
 * CloudMQ: Pub/Sub
 * CloudAE: App Engine
 * CloudDB: CloudSQL for MySQL

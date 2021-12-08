@@ -11,6 +11,7 @@ EG MSS is the music-streaming service of EG Net.
 
 MSS is an asynchronous cloud-platformed, data-based, api-backed, web-fronted, event-driven macroservice.
 
-1.  [Architecture](ARCHITECTURE.md)
+1. [Architecture](ARCHITECTURE.md)
+2. Contracts
 
 *2021-12-05*
